@@ -1,6 +1,4 @@
-# Rock-Paper-Scissors Code Along
+# Rock-Paper-Scissors Game
 
-To sync your code with Jim's latest commit, run these two commands:
+A basic game of rock, paper, scissors.
 
-- `git fetch --all`
-- `git reset --hard origin/master`
